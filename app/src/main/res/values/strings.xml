@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="email">email123@gmail.com</string>
+    <string name="password">password123</string>
+</resources>
